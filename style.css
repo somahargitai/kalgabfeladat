@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+.fejlec {
+  position: fixed;
+  display:flex;
+  width: 100%;
+}
+
+.fejlec table {
+  width: 100%;
+}
+
+.fejlec tr {
+  background-color:  #1d4b99;
+  display: inline-block;
+}
+
+
+.kontent {
+  top:50px;
+  justify-content: start;
+}
+.menu {
+ 
+  width: 100%;
+  float:left;
+  background-color: red;
+  
+}
